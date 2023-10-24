@@ -2,4 +2,4 @@
 
 For this sequence, please download the associated files from the Zenodo archive.
 
-[Zenodo Link for TIFF Sequence with Alpha 1](https://doi.org/10.5281/zenodo.10024025)
+[Zenodo Link for lossless H.265 MOV Sequence with Alpha 7](https://doi.org/10.5281/zenodo.10029303)
