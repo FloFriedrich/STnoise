@@ -14,6 +14,6 @@ Under the following terms:
 
 For the full license, please visit https://creativecommons.org/licenses/by/4.0/
 
-Attribution should be in the form of mentioning "Spatio-Temporal Noise Sequences: Multipurposed Pseudo-Random Visual Test Signals by Florian Friedrich | FF.de" in any obvious use of the signal. 
+Attribution should be in the form of mentioning "Spatio-Temporal Noise Sequences: Multipurposed Pseudo-Random Visual Test Signals and Programmatic Content by Florian Friedrich | FF.de" in any obvious use of the signal. 
 
 ORCID of the author: [https://orcid.org/0009-0007-2868-8432](https://orcid.org/0009-0007-2868-8432)

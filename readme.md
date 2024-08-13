@@ -7,9 +7,9 @@ Author: Florian Friedrich | [FF.de](https://www.ff.de)
 
 ## General Description
 
-This repository hosts a range of spatio-temporal noise sequences designed for use in various technology evaluations in the video field, including display metrology, workflow testing, encoding stress tests, display warm-up, and algorithm design.
+This repository hosts a range of spatio-temporal noise sequences designed for use in various technology evaluations in the video field, including display metrology, workflow testing, encoding stress tests, display warm-up, and algorithm design. In August 2024, this repository has also been extended to serve as a resource for content described in the paper "Defining and Characterizing Programmatic Image Sequences for Multi-Disciplinary Applications", intended to be used for multiple purposes such as implementation into HDR video generators, HDR DUT Stabilisation, Power Consumption and more (see paper, referenced below).
 
-### Features
+### Features (Spatio-Temporal Noise sequences)
 
 - **Format**: TIFF (16Bit half float, LZW compressed), MOV (H.265 lossless 12Bit)
 - **Resolution**: 3840x3840 pixels, lower resolutions by utilizing cropping, higher resolutions by tiling)
@@ -44,11 +44,15 @@ The following directories contain a `ZENODO_LINK.md` file with the DOI link for 
 - `STNOISE_alpha6_TIFF_sequence/`: TIFF files for alpha value 6.
 - `STNOISE_alpha7_MOV_sequence/`: MOV file for alpha value 7.
 - `STNOISE_alpha7_TIFF_sequence/`: TIFF files for alpha value 7.
+- `Example_compressed_IDMS_HDR_Test_Signal`: Compressed examples (.mp4) of programmatic HDR content, including Python script to combine it into longer sequences.
+- `Programmatic_content_stats_examples`: Examples of image statistics for the sequences provided as SVGs.
+- `Programmatic_content_HEVC_12Bit_lossless`: Programmatic HDR content examples, as .mov files with 4:4:4 12 Bit lossless HEVC encoding.
+- `Programmatic_content_TIFF_sequences`: Programmatic HDR content examples, as .tiff sequences (16 Bit half-float, full range).
 
 See `ZENODO_LINK.md` in each media directory for the corresponding download link.
 
 
-## Usage Variabilities
+## Usage Variabilities (Spatio-Temporal Noise sequences)
 
 You can modify these sequences in numerous ways, including:
 
@@ -57,7 +61,7 @@ You can modify these sequences in numerous ways, including:
 - Cropping, tiling, or scaling the images.
 - Converting to different color gamuts through computational transformations or LUTs.
 
-## Analysis and Fine-Tuning
+## Analysis and Fine-Tuning (Spatio-Temporal Noise sequences)
 
 For specific project goals, seeds and sequences can be selected, excluded, or combined for desired spatio-temporal distribution. Filters in the frequency domain can be used for additional customization.
 
