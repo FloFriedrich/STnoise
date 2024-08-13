@@ -1,4 +1,4 @@
-# Spatio-Temporal Noise Sequences: Multipurposed Pseudo-Random Visual Test Signals
+# Spatio-Temporal Noise Sequences: Multipurposed Pseudo-Random Visual Test Signals and Programmatic Content Examples
 
 Author: Florian Friedrich | [FF.de](https://www.ff.de)
 
@@ -82,7 +82,7 @@ For specific project goals, seeds and sequences can be selected, excluded, or co
 
 ## License
 
-This project is released under the [Creative Commons Attribution 4.0 International License](LICENSE). For attribution, mention "Spatio-Temporal Noise Sequences: Multipurposed Pseudo-Random Visual Test Signals by Florian Friedrich | FF.de".
+This project is released under the [Creative Commons Attribution 4.0 International License](LICENSE). For attribution, mention "Spatio-Temporal Noise Sequences: Multipurposed Pseudo-Random Visual Test Signals and Programmatic Content Examples by Florian Friedrich | FF.de".
 
 ## Author Information
 
