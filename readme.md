@@ -73,6 +73,8 @@ For specific project goals, seeds and sequences can be selected, excluded, or co
 
 5. Lennon, J. J. (2000). Red-shifts and red herrings in geographical ecology. *Ecography*. [DOI: 10.1111/j.1600-0587.2000.tb00265.x](https://doi.org/10.1111/j.1600-0587.2000.tb00265.x).
 
+6. Friedrich, F., & Kunkel, T. (2024). Defining and Characterizing Programmatic Image Sequences for Multi-Disciplinary Applications *SID, Color and HDR Metrology*. [DOI: 10.1002/sdtp.17727](https://doi.org/10.1002/sdtp.17727) (Invited Paper)
+
 
 ## License
 

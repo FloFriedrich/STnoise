@@ -11,7 +11,7 @@ The Spatio-Temporal noise in this example has been remapped to DCI-P3 in a BT.20
 ### Speed and Encoding
 
 - **Speed**: Slowed down to 20%.
-- **Encoding**: HEVC in an .mp3 container.
+- **Encoding**: HEVC in an .mp4 container.
 
 ## Timecodes and Segment Descriptions
 
